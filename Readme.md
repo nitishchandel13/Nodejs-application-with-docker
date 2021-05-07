@@ -1,4 +1,4 @@
-# Sample nodejs application with docker Conatiner
+# Sample nodejs application with docker conatiner
 
 
 # Installation
@@ -9,7 +9,7 @@
     // clone the application with git clone
 
     // then install the npm modules using
-     
+
     npm install
 
 
@@ -47,5 +47,3 @@
     docker run -it -d -p <outside-port-of-your-choice>:9005 <imagename:version>
 
 ```
-
-
